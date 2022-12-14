@@ -1,6 +1,6 @@
 # PRCV2021-Change-Detection-Contest-2nd-place-Solution
 
-本比赛由'''航天宏图'''公司赞助，目前截止2022年12月14日，距离比赛结束已经过去接近一年的时间，奖金迟迟发不下来！
+## 本比赛由**航天宏图**公司赞助，目前截止2022年12月14日，距离比赛结束已经过去接近一年的时间，奖金迟迟发不下来！！！
 
 Remote sensing building change detection
 
